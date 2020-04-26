@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wellcome-home.com	TRUE	/	FALSE	1999999999	wpwLang	en
+wellcome-home.com	TRUE	/	FALSE	1999999999	pll_language	en
+wellcome-home.com	TRUE	/	FALSE	1999999999	twofas_session_id	PjVOQnlHZCxRdGxxJWx6OQ%3D%3D
+

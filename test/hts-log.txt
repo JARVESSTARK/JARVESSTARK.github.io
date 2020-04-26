@@ -1,0 +1,305 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Apr 2020 21:38:38 at https://wellcome-home.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wellcome-home.com/ -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:38:40	Warning: 	Note: due to https://wellcome-home.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:40:48	Error: 	"Not Found" (404) at link https://wellcome-home.com/xmlrpc.php?rsd (from https://wellcome-home.com/)
+21:40:48	Warning: 	Found for https://wellcome-home.com/pl/
+21:40:48	Warning: 	File has moved from https://wellcome-home.com/pl/ to /
+21:58:22	Warning: 	File not parsed, looks like binary: https://wellcome-home.com/wp-content/themes/wellcomehome/assets/fonts/quicksand-v8-latin-ext_latin-300.woff2
+21:58:22	Warning: 	File not parsed, looks like binary: https://wellcome-home.com/wp-content/themes/wellcomehome/assets/fonts/quicksand-v8-latin-ext_latin-regular.woff2
+21:58:22	Warning: 	File not parsed, looks like binary: https://wellcome-home.com/wp-content/themes/wellcomehome/assets/fonts/quicksand-v8-latin-ext_latin-500.woff2
+21:58:22	Warning: 	File not parsed, looks like binary: https://wellcome-home.com/wp-content/themes/wellcomehome/assets/fonts/quicksand-v8-latin-ext_latin-700.woff2
+21:58:22	Warning: 	File not parsed, looks like binary: https://wellcome-home.com/wp-content/themes/wellcomehome/assets/fonts/icons.woff2?wellcome2.31
+21:58:22	Warning: 	Moved Permanently for https://wellcome-home.com/?p=51
+21:58:22	Warning: 	File has moved from https://wellcome-home.com/?p=51 to https://wellcome-home.com/find-a-flat/
+22:20:27	Warning: 	Moved Permanently for https://wellcome-home.com/find-a-flat//?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked
+22:20:27	Warning: 	Redirected link is identical because of 'URL Hack' option: https://wellcome-home.com/find-a-flat//?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked and https://wellcome-home.com/find-a-flat/?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked
+22:20:27	Warning: 	File has moved from https://wellcome-home.com/find-a-flat//?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked to https://wellcome-home.com/find-a-flat/?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked
+22:20:28	Warning: 	Moved Permanently for https://wellcome-home.com/?p=94
+22:20:28	Warning: 	File has moved from https://wellcome-home.com/?p=94 to https://wellcome-home.com/why-us/
+22:20:31	Warning: 	Moved Permanently for https://wellcome-home.com/?p=134
+22:20:31	Warning: 	File has moved from https://wellcome-home.com/?p=134 to https://wellcome-home.com/team/
+22:20:48	Warning: 	Moved Permanently for https://wellcome-home.com/?p=612
+22:20:48	Warning: 	File has moved from https://wellcome-home.com/?p=612 to https://wellcome-home.com/blog/
+22:33:46	Warning: 	Moved Permanently for https://wellcome-home.com/?p=39
+22:33:46	Warning: 	File has moved from https://wellcome-home.com/?p=39 to https://wellcome-home.com/faq/
+22:33:49	Warning: 	Moved Permanently for https://wellcome-home.com/?p=75
+22:33:49	Warning: 	File has moved from https://wellcome-home.com/?p=75 to https://wellcome-home.com/contact/
+22:33:52	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3339
+22:33:52	Warning: 	File has moved from https://wellcome-home.com/?p=3339 to https://wellcome-home.com/flat/batorego-2-164/
+22:33:52	Warning: 	Retry after error -4 (Incorrect length (851968 Bytes, 1005652 expected)) at link https://wellcome-home.com/wp-content/uploads/2020/01/BA2_164_01.jpg (from https://wellcome-home.com/flat/batorego-2-164/)
+22:33:52	Warning: 	Retry after error -4 (Incorrect length (1540096 Bytes, 1610770 expected)) at link https://wellcome-home.com/wp-content/uploads/2020/03/BA2_wejście.jpg (from https://wellcome-home.com/flat/batorego-2-164/)
+22:33:52	Warning: 	Retry after error -4 (Incorrect length (589824 Bytes, 1010573 expected)) at link https://wellcome-home.com/wp-content/uploads/2020/01/BA2_kamienica.jpg (from https://wellcome-home.com/flat/batorego-2-164/)
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=295
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=295 to https://wellcome-home.com/flat/kosciuszki-70-131/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=270
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=270 to https://wellcome-home.com/flat/kosciuszki-70-128/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3341
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=3341 to https://wellcome-home.com/flat/batorego-2-166/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3338
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=3338 to https://wellcome-home.com/flat/batorego-2-163/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3337
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=3337 to https://wellcome-home.com/flat/batorego-2-162/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3326
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=3326 to https://wellcome-home.com/flat/batorego-2-152/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3334
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=3334 to https://wellcome-home.com/flat/batorego-2-159/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3332
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=3332 to https://wellcome-home.com/flat/batorego-2-157/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=170
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=170 to https://wellcome-home.com/privacy-policy/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/?p=636
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/?p=636 to https://wellcome-home.com/pl/mieszkania/
+22:33:53	Warning: 	Moved Permanently for https://wellcome-home.com/pl/mieszkania//?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked
+22:33:53	Warning: 	Redirected link is identical because of 'URL Hack' option: https://wellcome-home.com/pl/mieszkania//?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked and https://wellcome-home.com/pl/mieszkania/?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked
+22:33:53	Warning: 	File has moved from https://wellcome-home.com/pl/mieszkania//?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked to https://wellcome-home.com/pl/mieszkania/?status_type%5B0%5D=available&status_type%5B1%5D=occupied&status_type%5B2%5D=coming-soon&status_type%5B3%5D=booked
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3328
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=3328 to https://wellcome-home.com/flat/batorego-2-153/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3335
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=3335 to https://wellcome-home.com/flat/batorego-2-160/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=176
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=176 to https://wellcome-home.com/flat/damrota-4-118/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=231
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=231 to https://wellcome-home.com/flat/damrota-4-119/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=236
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=236 to https://wellcome-home.com/flat/damrota-4-123/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=244
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=244 to https://wellcome-home.com/flat/damrota-4-125/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=248
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=248 to https://wellcome-home.com/flat/damrota-4-121/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=254
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=254 to https://wellcome-home.com/flat/damrota-4-120/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=499
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=499 to https://wellcome-home.com/flat/damrota-4-122/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=562
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=562 to https://wellcome-home.com/flat/damrota-4-116/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=699
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=699 to https://wellcome-home.com/flat/damrota-4-115/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=765
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=765 to https://wellcome-home.com/flat/damrota-4-126/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1787
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1787 to https://wellcome-home.com/flat/kosciuszki-16-143/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1792
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1792 to https://wellcome-home.com/flat/kosciuszki-16-144/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1793
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1793 to https://wellcome-home.com/flat/kosciuszki-16-145/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1794
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1794 to https://wellcome-home.com/flat/kosciuszki-16-146/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1144
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1144 to https://wellcome-home.com/flat/kosciuszki-19-136/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1146
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1146 to https://wellcome-home.com/flat/kosciuszki-19-137/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1147
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1147 to https://wellcome-home.com/flat/kosciuszki-19-138/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1472
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1472 to https://wellcome-home.com/flat/kosciuszki-19-139/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1489
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1489 to https://wellcome-home.com/flat/kosciuszki-19-140/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1490
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1490 to https://wellcome-home.com/flat/kosciuszki-19-141/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1491
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1491 to https://wellcome-home.com/flat/kosciuszki-19-142/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=261
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=261 to https://wellcome-home.com/flat/kosciuszki-70-127/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=277
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=277 to https://wellcome-home.com/flat/kosciuszki-70-129/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=286
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=286 to https://wellcome-home.com/flat/kosciuszki-70-130/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=877
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=877 to https://wellcome-home.com/flat/ordona-8a-135/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=887
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=887 to https://wellcome-home.com/flat/ordona-8a-134/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1796
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1796 to https://wellcome-home.com/flat/plebiscytowa-17-147/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1797
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1797 to https://wellcome-home.com/flat/plebiscytowa-17-148/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1800
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=1800 to https://wellcome-home.com/flat/plebiscytowa-17-149/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2987
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=2987 to https://wellcome-home.com/flat/szeligiewicza-7-151/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2986
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=2986 to https://wellcome-home.com/flat/szeligiewicza-7-150/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=497
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=497 to https://wellcome-home.com/flat/slowackiego-49-132/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=632
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=632 to https://wellcome-home.com/pl/dlaczego-my/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=630
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=630 to https://wellcome-home.com/pl/zespol/
+22:33:55	Warning: 	Moved Permanently for https://wellcome-home.com/?p=649
+22:33:55	Warning: 	File has moved from https://wellcome-home.com/?p=649 to https://wellcome-home.com/pl/blog-pl/
+22:51:31	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3891
+22:51:31	Warning: 	File has moved from https://wellcome-home.com/?p=3891 to https://wellcome-home.com/place-ready-for-spring/
+22:51:31	Warning: 	Moved Permanently for https://wellcome-home.com/?attachment_id=3912
+22:51:31	Warning: 	Warning moved treated for https://wellcome-home.com/?attachment_id=3912 (real one is https://wellcome-home.com/wp-content/uploads/2020/04/kolorowe-dodatki-1.jpg)
+22:51:31	Warning: 	Moved Permanently for https://wellcome-home.com/?attachment_id=3913
+22:51:31	Warning: 	Warning moved treated for https://wellcome-home.com/?attachment_id=3913 (real one is https://wellcome-home.com/wp-content/uploads/2020/04/nakrycie-sto%C5%82u-1.jpg)
+22:51:32	Warning: 	Moved Permanently for https://wellcome-home.com/?attachment_id=3914
+22:51:32	Warning: 	Warning moved treated for https://wellcome-home.com/?attachment_id=3914 (real one is https://wellcome-home.com/wp-content/uploads/2020/04/tulipany-1.jpg)
+22:51:34	Warning: 	Moved Permanently for https://wellcome-home.com/?attachment_id=3915
+22:51:34	Warning: 	Warning moved treated for https://wellcome-home.com/?attachment_id=3915 (real one is https://wellcome-home.com/wp-content/uploads/2020/04/wielkanocna-kura-1.jpg)
+22:52:01	Warning: 	Moved Permanently for https://wellcome-home.com/?attachment_id=3916
+22:52:01	Warning: 	Warning moved treated for https://wellcome-home.com/?attachment_id=3916 (real one is https://wellcome-home.com/wp-content/uploads/2020/04/wielkanocny-zaja%CC%A8c-1.jpg)
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3587
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=3587 to https://wellcome-home.com/how-to-organize-a-home-office/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3551
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=3551 to https://wellcome-home.com/travel-from-katowice-by-train/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/blog/places-around-katowice-to-visit-in-autumn-and-winter/
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/blog/places-around-katowice-to-visit-in-autumn-and-winter/ to https://wellcome-home.com/places-around-katowice-to-visit-in-autumn-and-winter/
+22:52:08	Error: 	"Not Found" (404) at link https://wellcome-home.com/blog/green-spots-katowice/ (from https://wellcome-home.com/travel-from-katowice-by-train/)
+22:52:08	Error: 	"Not Found" (404) at link https://wellcome-home.com/blog/things-to-do-around-silesia/ (from https://wellcome-home.com/travel-from-katowice-by-train/)
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/blog/ski-resorts-in-silesia/
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/blog/ski-resorts-in-silesia/ to https://wellcome-home.com/ski-resorts-in-silesia/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3425
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=3425 to https://wellcome-home.com/interior-design-trends-2020/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/blog/how-to-be-eco-friendly/
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/blog/how-to-be-eco-friendly/ to https://wellcome-home.com/how-to-be-eco-friendly/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3244
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=3244 to https://wellcome-home.com/ski-resorts-in-silesia/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3052
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=3052 to https://wellcome-home.com/silesia-top-brands/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2941
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2941 to https://wellcome-home.com/natural-materials-in-interior-design/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2880
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2880 to https://wellcome-home.com/places-around-katowice-to-visit-in-autumn-and-winter/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2741
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2741 to https://wellcome-home.com/small-flat-ideas/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2676
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2676 to https://wellcome-home.com/the-best-pizza-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2444
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2444 to https://wellcome-home.com/interiors-in-style-eclectic-boho-and-glamour-style/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2297
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2297 to https://wellcome-home.com/green-spots-around-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2245
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2245 to https://wellcome-home.com/how-to-be-eco-friendly/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/blog/how-to-be-eco/
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/blog/how-to-be-eco/ to https://wellcome-home.com/how-to-be-eco/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2075
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=2075 to https://wellcome-home.com/things-to-do-in-summer-silesia/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1955
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=1955 to https://wellcome-home.com/how-to-be-eco/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1903
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=1903 to https://wellcome-home.com/interiors-in-style-minimalism-scandinavian-and-industrial-style/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/blog/9-must-see-places-in-katowice/
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/blog/9-must-see-places-in-katowice/ to https://wellcome-home.com/9-must-see-places-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/blog/best-breakfast-in-katowice/
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/blog/best-breakfast-in-katowice/ to https://wellcome-home.com/best-breakfast-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1754
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=1754 to https://wellcome-home.com/best-breakfast-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1587
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=1587 to https://wellcome-home.com/top-7-music-festivals-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1410
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=1410 to https://wellcome-home.com/best-things-to-do-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1267
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=1267 to https://wellcome-home.com/street-art-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=840
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=840 to https://wellcome-home.com/best-asian-restaurant-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=893
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=893 to https://wellcome-home.com/9-must-see-places-in-katowice/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=751
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=751 to https://wellcome-home.com/coming-trends-for-2019/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=674
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=674 to https://wellcome-home.com/flats-according-to-scandinavian-philosophy-hygge/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=666
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=666 to https://wellcome-home.com/concierge-of-course/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=663
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=663 to https://wellcome-home.com/about-us/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=638
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=638 to https://wellcome-home.com/pl/pytania/
+22:52:08	Warning: 	Moved Permanently for https://wellcome-home.com/?p=634
+22:52:08	Warning: 	File has moved from https://wellcome-home.com/?p=634 to https://wellcome-home.com/pl/kontakt/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3835
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=3835 to https://wellcome-home.com/pl/jak-odmienic-mieszkanie-na-wiosne/
+22:53:35	Error: 	"Not Found" (404) at link https://wellcome-home.com/wp-content/uploads/2020/04/światło-we-wnętrzu.jpg (from https://wellcome-home.com/pl/jak-odmienic-mieszkanie-na-wiosne/)
+22:53:35	Error: 	"Not Found" (404) at link https://wellcome-home.com/wp-content/uploads/2020/04/światło-we-wnętrzu-1024x683.jpg (from https://wellcome-home.com/pl/jak-odmienic-mieszkanie-na-wiosne/)
+22:53:35	Error: 	"Not Found" (404) at link https://wellcome-home.com/wp-content/uploads/2020/04/okrągłe-lustro.jpg (from https://wellcome-home.com/pl/jak-odmienic-mieszkanie-na-wiosne/)
+22:53:35	Error: 	"Not Found" (404) at link https://wellcome-home.com/wp-content/uploads/2020/04/okrągłe-lustro-1024x683.jpg (from https://wellcome-home.com/pl/jak-odmienic-mieszkanie-na-wiosne/)
+22:53:35	Error: 	"Not Found" (404) at link https://wellcome-home.com/wp-content/uploads/2020/04/żółta-narzuta-na-łóżko-1024x683.jpg (from https://wellcome-home.com/pl/jak-odmienic-mieszkanie-na-wiosne/)
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3586
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=3586 to https://wellcome-home.com/pl/jak-urzadzic-domowe-biuro/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3515
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=3515 to https://wellcome-home.com/pl/gdzie-pojechac-z-katowic-pociagiem/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/pl/miejsca-wokol-katowic-do-zwiedzenia-jesienia/
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/pl/miejsca-wokol-katowic-do-zwiedzenia-jesienia/ to https://wellcome-home.com/pl/miejsca-wokol-katowic-na-jesien/
+22:53:35	Error: 	"Not Found" (404) at link https://wellcome-home.com/pl/blog/zielone-katowice/ (from https://wellcome-home.com/pl/gdzie-pojechac-z-katowic-pociagiem/)
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/pl/blog/miejsca-na-lato-slask/
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/pl/blog/miejsca-na-lato-slask/ to https://wellcome-home.com/pl/miejsca-na-lato-slask/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3380
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=3380 to https://wellcome-home.com/pl/trendy-we-wnetrzach-2020/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/pl/blog/jak-byc-ekologicznym/
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/pl/blog/jak-byc-ekologicznym/ to https://wellcome-home.com/pl/jak-byc-ekologicznym/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3140
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=3140 to https://wellcome-home.com/pl/osrodki-narciarskie-wojewodztwo-slaskie/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=3027
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=3027 to https://wellcome-home.com/pl/prezenty-ze-slaska/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2947
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2947 to https://wellcome-home.com/pl/naturalne-materialy-we-wnetrzach/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2914
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2914 to https://wellcome-home.com/pl/miejsca-wokol-katowic-na-jesien/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2742
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2742 to https://wellcome-home.com/pl/sposoby-na-male-mieszkanie/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2657
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2657 to https://wellcome-home.com/pl/najlepsza-pizza-w-katowicach/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2464
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2464 to https://wellcome-home.com/pl/wnetrze-ze-stylem-styl-eklektyczny-boho-i-glamour/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2299
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2299 to https://wellcome-home.com/pl/miejsca-wokol-katowic-na-wiosne-lato/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=2224
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=2224 to https://wellcome-home.com/pl/jak-byc-ekologicznym/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/pl/blog/jak-byc-ekologiczny/
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/pl/blog/jak-byc-ekologiczny/ to https://wellcome-home.com/pl/jak-byc-ekologiczny/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1997
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1997 to https://wellcome-home.com/pl/miejsca-na-lato-slask/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1938
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1938 to https://wellcome-home.com/pl/jak-byc-ekologiczny/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1838
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1838 to https://wellcome-home.com/pl/wnetrze-ze-stylem-minimalizm-styl-skandynawski-i-industrialny/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1726
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1726 to https://wellcome-home.com/pl/najlepsze-sniadania-w-katowicach/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1637
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1637 to https://wellcome-home.com/pl/top-7-festiwali-muzycznych-w-katowicach/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1412
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1412 to https://wellcome-home.com/pl/najciekawsze-atrakcje-w-katowicach/
+22:53:35	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1288
+22:53:35	Warning: 	File has moved from https://wellcome-home.com/?p=1288 to https://wellcome-home.com/pl/murale-katowice/
+22:53:35	Warning: 	Retry after error -4 (Incorrect length (802816 Bytes, 898496 expected)) at link https://wellcome-home.com/wp-content/uploads/2019/04/IMG_0743-1.jpg (from https://wellcome-home.com/pl/murale-katowice/)
+22:53:38	Warning: 	Moved Permanently for https://wellcome-home.com/?p=1080
+22:53:38	Warning: 	File has moved from https://wellcome-home.com/?p=1080 to https://wellcome-home.com/pl/azjatyckie-restauracje-katowice/
+22:53:38	Warning: 	Moved Permanently for https://wellcome-home.com/?p=987
+22:53:38	Warning: 	File has moved from https://wellcome-home.com/?p=987 to https://wellcome-home.com/pl/9-miejsc-ktore-musisz-zobaczyc-w-katowicach/
+22:53:38	Warning: 	Moved Permanently for https://wellcome-home.com/?p=737
+22:53:38	Warning: 	File has moved from https://wellcome-home.com/?p=737 to https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/
+22:53:38	Warning: 	Moved Permanently for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home-2/
+22:53:38	Warning: 	Warning moved treated for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home-2/ (real one is https://wellcome-home.com/wp-content/uploads/2019/01/Wellcome-Home.jpg)
+22:53:39	Warning: 	Moved Permanently for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home1/
+22:53:39	Warning: 	Warning moved treated for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home1/ (real one is https://wellcome-home.com/wp-content/uploads/2019/01/Wellcome-Home1.jpg)
+22:53:40	Warning: 	Moved Permanently for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home3/
+22:53:40	Warning: 	Warning moved treated for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home3/ (real one is https://wellcome-home.com/wp-content/uploads/2019/01/Wellcome-Home3.jpg)
+22:53:40	Warning: 	Moved Permanently for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home4/
+22:53:40	Warning: 	Warning moved treated for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home4/ (real one is https://wellcome-home.com/wp-content/uploads/2019/01/Wellcome-Home4.jpg)
+22:53:40	Warning: 	Moved Permanently for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home5/
+22:53:40	Warning: 	Warning moved treated for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home5/ (real one is https://wellcome-home.com/wp-content/uploads/2019/01/Wellcome-Home5.jpg)
+22:53:43	Warning: 	Moved Permanently for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home6/
+22:53:43	Warning: 	Warning moved treated for https://wellcome-home.com/pl/modne-wnetrze-w-2019-roku-czyli-nadchodzace-trendy/wellcome-home6/ (real one is https://wellcome-home.com/wp-content/uploads/2019/01/Wellcome-Home6.jpg)
+22:53:46	Warning: 	Moved Permanently for https://wellcome-home.com/?p=677
+22:53:46	Warning: 	File has moved from https://wellcome-home.com/?p=677 to https://wellcome-home.com/pl/mieszkania-w-skandynawskiej-filozofii-hygge/
+22:53:46	Warning: 	Moved Permanently for https://wellcome-home.com/?p=669
+22:53:46	Warning: 	File has moved from https://wellcome-home.com/?p=669 to https://wellcome-home.com/pl/konsjerz-alez-oczywiscie/
+22:53:46	Warning: 	Moved Permanently for https://wellcome-home.com/?p=651
+22:53:46	Warning: 	File has moved from https://wellcome-home.com/?p=651 to https://wellcome-home.com/pl/o-nas/
+22:53:46	Warning: 	Moved Permanently for https://wellcome-home.com/category/lifestyle/page/1/
+22:53:46	Warning: 	File has moved from https://wellcome-home.com/category/lifestyle/page/1/ to https://wellcome-home.com/category/lifestyle/
+22:53:46	Warning: 	Retry after error -4 (Incorrect length (720896 Bytes, 947151 expected)) at link https://wellcome-home.com/wp-content/uploads/2020/04/wielkanocny-zaja%CC%A8c-1.jpg (from https://wellcome-home.com/place-ready-for-spring/)
+22:53:46	Warning: 	Moved Permanently for https://wellcome-home.com/?p=4051
+22:53:46	Warning: 	File has moved from https://wellcome-home.com/?p=4051 to https://wellcome-home.com/pl/jak-segregowac-smieci/
+22:54:30	Warning: 	Moved Permanently for https://wellcome-home.com/pl/category/styl-zycia/page/1/
+22:54:30	Warning: 	File has moved from https://wellcome-home.com/pl/category/styl-zycia/page/1/ to https://wellcome-home.com/pl/category/styl-zycia/
+22:54:30	Warning: 	Moved Permanently for https://wellcome-home.com/?p=4095
+22:54:30	Warning: 	File has moved from https://wellcome-home.com/?p=4095 to https://wellcome-home.com/how-to-sort-your-waste/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 16 minutes 0 seconds : 2739 links scanned, 2588 files written (891601938 bytes overall) [886370702 bytes received at 194379 bytes/sec], 8462482 bytes transferred using HTTP compression in 136 files, ratio 24%
+(9 errors, 285 warnings, 0 messages)
